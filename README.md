@@ -1,0 +1,2 @@
+# Learn2plan
+School project for Centrale Lille and INRIA. How to apply reinforcement learning methods to scheduling ? Our goal was to create an algorithm that can learn and improve its ability to create schedules for teams with various constraints (abilities, availability,...).  Our approach was to imagine and create the virtual experimental environment, develop an appropriate reward system, and implement the training of the final algorithm. This paper details the project's different steps, the problems that we faced and the solutions that we implemented to overcome them.
